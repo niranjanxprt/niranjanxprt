@@ -1,0 +1,58 @@
+title: Niranjan T - Full Stack Developer & System Design Expert
+description: >-
+  Passionate about building scalable systems, AI-powered applications, 
+  and creating interactive visualizations. Welcome to my GitHub journey!
+
+author:
+  name: Niranjan T
+  email: niranjan@example.com
+
+url: "https://niranjanxprt.github.io"
+baseurl: ""
+
+# Dark theme
+remote_theme: pages-themes/hacker@v0.2.0
+
+# GitHub Pages supported plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-gist
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+
+# SEO and social
+twitter:
+  username: niranjanxprt
+github:
+  username: niranjanxprt
+
+# GitHub repository for metadata
+repository: niranjanxprt/niranjanxprt
+
+# Markdown processing
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Build settings
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - README.md
