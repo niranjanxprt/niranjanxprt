@@ -1,58 +1,40 @@
 name: Generate Snake Animation
 
 on:
-  # Run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-  
-  # Allows manual trigger
   workflow_dispatch:
-  
-  # Run on every push to main branch
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
+    permissions:
+      contents: write
     
     steps:
-      # Checkout repository content
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
-      # Generate snake animation from contribution graph
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: niranjanxprt
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # Create output directory if it doesn't exist
+            
       - name: Create output directory
-        run: mkdir -p output
-
-      # Move generated files to output directory
-      - name: Move files
         run: |
-          if [ -f dist/github-contribution-grid-snake-dark.svg ]; then
-            mv dist/github-contribution-grid-snake-dark.svg output/
-          fi
-          if [ -f dist/github-contribution-grid-snake.svg ]; then
-            mv dist/github-contribution-grid-snake.svg output/
-          fi
-
-      # Commit and push the generated files
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v9
+          mkdir -p output
+          cp dist/github-contribution-grid-snake-dark.svg output/ 2>/dev/null || echo "Dark snake not generated"
+          cp dist/github-contribution-grid-snake.svg output/ 2>/dev/null || echo "Regular snake not generated"
+          
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          add: 'output'
-          message: '🐍 Update contribution snake animation'
-          default_author: github_actions
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: 🐍 Update snake animation
+          file_pattern: output/*

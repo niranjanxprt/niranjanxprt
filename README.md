@@ -1,7 +1,7 @@
 # 🌟 Welcome to My Digital Universe
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:C850C0&height=200&section=header&text=Niranjan%20Thimmappa&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Solution%20Architect%20%7C%20System%20Design%20Expert&descAlignY=51&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:C850C0&height=240&section=header&text=Niranjan%20Thimmappa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Solution%20Architect%20%7C%20System%20Design%20Expert&descAlignY=58&descSize=18" width="100%" />
 </div>
 
 <div align="center">
@@ -82,10 +82,10 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/niranjanxprt/niranjanxprt/main/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjanxprt&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
