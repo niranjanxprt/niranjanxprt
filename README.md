@@ -1,12 +1,12 @@
 # 🌟 Welcome to My Digital Universe
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:C850C0&height=200&section=header&text=Niranjan%20T&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20System%20Design%20Expert&descAlignY=51&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,100:C850C0&height=200&section=header&text=Niranjan%20Thimmappa&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Solution%20Architect%20%7C%20System%20Design%20Expert&descAlignY=51&descSize=20" width="100%" />
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer+🚀;System+Design+Expert+🏗️;AI+%26+Web3+Enthusiast+🤖;Open+Source+Contributor+💻)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&height=100&lines=AI+Solution+Architect+🤖;System+Design+Expert+🏗️;Full+Stack+Developer+🚀;Open+Source+Contributor+💻)](https://git.io/typing-svg)
   
 </div>
 
@@ -14,13 +14,13 @@
 
 ## 🚀 About Me
 
-> Transforming ideas into scalable digital solutions with cutting-edge technology
+> AI Solution Architect passionate about designing scalable systems and innovative architectures
 
-- 🔭 Currently working on **AI-powered MVP validation tools** and **interactive system design visualizations**
-- 🌱 Deep diving into **microservices architecture**, **distributed systems**, and **AI agent frameworks**
-- 👯 Open to collaborate on **system design projects**, **developer tools**, and **educational content**
-- 💬 Ask me about **React**, **Node.js**, **System Architecture**, **Database Design**, and **Performance Optimization**
-- ⚡ Fun fact: I visualize complex systems as interactive graphs and love turning technical concepts into engaging experiences
+- 🔭 Currently working on **AI-powered development tools** and **interactive system design visualizations**
+- 🌱 Deep diving into **AI agent frameworks**, **distributed systems**, and **scalable architectures**
+- 👯 Open to collaborate on **AI system design**, **architecture patterns**, and **technical innovation**
+- 💬 Ask me about **AI Solutions**, **System Architecture**, **Distributed Systems**, **Database Design**, and **Performance Optimization**
+- ⚡ Fun fact: I architect complex AI systems and love transforming business challenges into elegant technical solutions
 
 ---
 
@@ -74,9 +74,9 @@
 <div align="center">
   
 [![Dukaan System Design](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=niranjanxprt&repo=dukaan-system-design&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/niranjanxprt/dukaan-system-design)
-[![MVP4Prod](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=niranjanxprt&repo=mvp4prod&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/niranjanxprt/mvp4prod)
 [![Bookmark Preview](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=niranjanxprt&repo=bookmark-preview&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/niranjanxprt/bookmark-preview)
 [![Starred Repos Graph](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=niranjanxprt&repo=starred-repos-graph&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/niranjanxprt/starred-repos-graph)
+[![Docs Repository](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=niranjanxprt&repo=docs&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/niranjanxprt/docs)
 
 </div>
 
@@ -85,7 +85,7 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/niranjanxprt/niranjanxprt/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/niranjanxprt/niranjanxprt/main/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -120,10 +120,10 @@
 
 ## 🎯 Current Focus
 
-- 🔬 **Research**: AI-driven development workflows and automated code quality assurance
-- 🏗️ **Building**: Next-generation developer tools for system design and architecture
-- 📚 **Learning**: Advanced distributed systems patterns and microservices orchestration
-- 🌍 **Contributing**: Open source projects that make developers' lives easier
+- 🤖 **AI Solutions**: Designing intelligent systems and AI-powered architectures
+- 🏗️ **System Design**: Scalable distributed systems and microservices patterns
+- 📚 **Innovation**: Advanced AI integration patterns and solution architectures
+- 🌍 **Impact**: Building systems that solve real-world business challenges
 
 ---
 
