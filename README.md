@@ -80,12 +80,16 @@
 
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=niranjanxprt&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
+
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjanxprt&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" width="100%" />
 </div>
 
 ---
