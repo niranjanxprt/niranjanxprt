@@ -97,7 +97,7 @@
 [![Dukaan System Design](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=niranjanxprt&repo=dukaan-system-design&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/niranjanxprt/dukaan-system-design)
 [![Bookmark Preview](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=niranjanxprt&repo=bookmark-preview&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/niranjanxprt/bookmark-preview)
 [![Starred Repos Graph](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=niranjanxprt&repo=starred-repos-graph&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/niranjanxprt/starred-repos-graph)
-[![Docs Repository](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=niranjanxprt&repo=docs&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/niranjanxprt/docs)
+
 
 </div>
 
