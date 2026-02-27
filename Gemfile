@@ -4,9 +4,6 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 # This is the default theme for new Jekyll sites.
 gem "minima", "~> 2.5"
 
-# Jekyll
-gem "jekyll", "~> 4.3.0"
-
 # GitHub Pages
 gem "github-pages", group: :jekyll_plugins
 
