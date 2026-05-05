@@ -1,7 +1,7 @@
 # 🌟 Welcome to My Digital Workshop
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,18:2563EB,36:22C55E,54:FACC15,72:F97316,90:DB2777,100:0D1117&height=240&section=header&text=Niranjan%20Thimmappa&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Solution%20Architect%20%7C%20Production%20RAG%20%26%20Document%20AI%20%7C%20Berlin&descAlignY=58&descSize=17" width="100%" alt="Niranjan Thimmappa - AI Solution Architect" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,18:2563EB,36:22C55E,54:FACC15,72:F97316,90:DB2777,100:0D1117&height=240&section=header&text=Niranjan%20Thimmappa&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Solution%20Architect%20%7C%20Production%20RAG%20and%20Document%20AI%20%7C%20Berlin&descAlignY=58&descSize=17" width="100%" alt="Niranjan Thimmappa - AI Solution Architect" />
 </div>
 
 <div align="center">
