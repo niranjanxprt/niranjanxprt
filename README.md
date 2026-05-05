@@ -6,7 +6,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=900&color=58A6FF&background=0D111700&center=true&vCenter=true&width=860&height=96&lines=I+build+production+AI+systems+that+survive+the+real+world;RAG+%2B+Document+AI+%2B+Azure+AI+Foundry;Energy%2C+real+estate%2C+industrial+tech%2C+and+enterprise+AI;Playful+interfaces.+Serious+architecture.)](https://git.io/typing-svg)
+<strong>Production AI for real systems</strong> · RAG · Document AI · Azure AI Foundry · Energy Tech
+<br/>
+<sub>Playful tools. Serious architecture. Built for the messy real world.</sub>
 
 </div>
 
