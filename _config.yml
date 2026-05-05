@@ -1,11 +1,12 @@
-title: Niranjan Thimmappa - AI Solution Architect & System Design Expert
+title: Niranjan Thimmappa - AI Solution Architect
 description: >-
-  Passionate about building AI-powered systems, scalable architectures,
-  and creating innovative solutions. Welcome to my GitHub journey!
+  Berlin-based AI Solution Architect building production RAG, Document AI,
+  Azure AI Foundry, and enterprise AI systems for energy, real estate,
+  sustainability, and industrial technology.
 
 author:
   name: Niranjan Thimmappa
-  email: niranjanxprt@gmail.com
+  email: hi@niranjanthimmappa.com
 
 url: "https://niranjanxprt.github.io"
 baseurl: ""
@@ -27,7 +28,7 @@ plugins:
 
 # SEO and social
 twitter:
-  username: niranjanxprt
+  username: niranjan_xprt
 github:
   username: niranjanxprt
 
