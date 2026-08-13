@@ -123,10 +123,12 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=niranjanxprt&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f97316" alt="Niranjan's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=niranjanxprt&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Niranjan's top languages" />
-</div>
+| Signal | Snapshot |
+| --- | --- |
+| **Public repos** | 23 repositories across AI, visualization, system design, compliance, and productivity tools |
+| **Profile focus** | Production AI, Document AI, RAG, energy tech, and interactive technical storytelling |
+| **Community** | 23 followers and 141 following |
+| **Most visible languages** | Python, JavaScript, TypeScript, HTML, and CSS |
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjanxprt&theme=github-dark-blue&hide_border=true&background=0d1117" width="48%" alt="GitHub streak stats" />
