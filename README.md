@@ -91,38 +91,30 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/niranjanxprt/Lexagent">
-        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=niranjanxprt&repo=Lexagent&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f97316" alt="Lexagent repository card" />
-      </a>
+      <h3><a href="https://github.com/niranjanxprt/starred-repos-graph">🕸️ starred-repos-graph</a></h3>
+      <p>Interactive graph visualization of GitHub starred repositories with automatic updates.</p>
+      <p><strong>Why it matters:</strong> shows data visualization, automation, and developer-tool thinking.</p>
+      <p><code>JavaScript</code> <code>GitHub Actions</code> <code>Graph UI</code></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/niranjanxprt/starred-repos-graph">
-        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=niranjanxprt&repo=starred-repos-graph&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=22c55e" alt="starred-repos-graph repository card" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/niranjanxprt/Doomscrolling_Blocker">
-        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=niranjanxprt&repo=Doomscrolling_Blocker&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=db2777" alt="Doomscrolling Blocker repository card" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/niranjanxprt/bookmark-preview">
-        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=niranjanxprt&repo=bookmark-preview&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=facc15" alt="bookmark-preview repository card" />
-      </a>
+      <h3><a href="https://github.com/niranjanxprt/Doomscrolling_Blocker">🧠 Doomscrolling_Blocker</a></h3>
+      <p>Webcam-based focus tool that detects phone-looking posture and nudges attention back.</p>
+      <p><strong>Why it matters:</strong> keeps the README playful while showing computer vision, UX, and product thinking.</p>
+      <p><code>Python</code> <code>Computer Vision</code> <code>Focus Tool</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/niranjanxprt/federation-x">
-        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=niranjanxprt&repo=federation-x&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=2563eb" alt="federation-x repository card" />
-      </a>
+      <h3><a href="https://github.com/niranjanxprt/bookmark-preview">🔖 bookmark-preview</a></h3>
+      <p>Interactive bookmark viewer with an Obsidian-style graph across 807 bookmarks and 14 categories.</p>
+      <p><strong>Why it matters:</strong> shows knowledge organization, graph interfaces, and zero-build web delivery.</p>
+      <p><code>HTML</code> <code>Graph UI</code> <code>GitHub Pages</code></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/niranjanxprt/eu-ai-act">
-        <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=niranjanxprt&repo=eu-ai-act&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f97316" alt="eu-ai-act repository card" />
-      </a>
+      <h3><a href="https://github.com/niranjanxprt/dukaan-system-design">🏗️ dukaan-system-design</a></h3>
+      <p>Interactive system design journey visualizing Dukaan's evolution from a 512MB server to global scale.</p>
+      <p><strong>Why it matters:</strong> reinforces architecture, scaling, storytelling, and system-design depth.</p>
+      <p><code>JavaScript</code> <code>System Design</code> <code>Interactive Explainer</code></p>
     </td>
   </tr>
 </table>
